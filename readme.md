@@ -59,6 +59,6 @@ A：是
 3. PS：理论上不仅仅对比数据，还会对比表的结构；程序使用exp对session消耗很小
 
 
-![image](C:/Users/alons/Desktop/1.jpg)
+![image](https://github.com/Alonsovau/compare_database/blob/master/1.jpg)
 
 
